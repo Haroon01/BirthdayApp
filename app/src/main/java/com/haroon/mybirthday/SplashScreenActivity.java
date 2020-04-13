@@ -15,11 +15,11 @@ import android.widget.TextView;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-// TODO: getting a black bar during splash screen, need to remove and make the app fully fullscreen.
+// TODO: getting a black bar during splash screen, need to remove and make the app fully fullscreen. (FIXED)
 
 public class SplashScreenActivity extends AppCompatActivity {
 
-    private static int SPLASH_SCREEN = 7000;
+    private static int SPLASH_SCREEN = 5000;
 
     Animation topAnim, bottomAnim;
     ImageView logo;

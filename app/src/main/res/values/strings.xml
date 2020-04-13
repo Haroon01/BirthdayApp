@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">My Birthday</string>
     <string name="splash_text">Haroons Birthday</string>
-    <string name="btn_contact">Contact Me</string>
+    <string name="btn_contact">How can I contact you?</string>
     <string name="btn_location">Where is it?</string>
-
+    <string name="btn_schedule">What should I expect?</string>
+    <string name="btn_donate">Send me birthday money :p</string>
 </resources>
