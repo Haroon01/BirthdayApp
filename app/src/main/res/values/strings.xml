@@ -5,4 +5,8 @@
     <string name="btn_location">Where is it?</string>
     <string name="btn_schedule">What should I expect?</string>
     <string name="btn_donate">Send me birthday money :p</string>
+    <string name="lbl_address">Address</string>
+    <string name="address">57 NotFake Road\nRealCity\nTF4 3ER\nUnited Kingdom</string>
+    <string name="btn_openMaps">Open in Maps</string>
+    <string name="houseimg_description">Image of the house where the event is located.</string>
 </resources>
