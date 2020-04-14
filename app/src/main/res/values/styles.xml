@@ -40,4 +40,13 @@
         <item name="android:background">@color/black_overlay</item>
     </style>
 
+    <style name="title">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:color">#CD392E</item>
+    </style>
+
+
 </resources>

@@ -33,7 +33,7 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="0dp"
-        android:layout_height="238dp"
+        android:layout_height="325dp"
         android:contentDescription="@string/houseimg_description"
         android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"

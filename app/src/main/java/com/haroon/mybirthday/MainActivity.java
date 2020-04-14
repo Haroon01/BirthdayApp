@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private Button btnDonate;
     private Button btnSchedule;
 
+    //TODO: set all titles to @styles/title theme
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

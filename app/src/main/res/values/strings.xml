@@ -9,4 +9,16 @@
     <string name="address">57 NotFake Road\nRealCity\nTF4 3ER\nUnited Kingdom</string>
     <string name="btn_openMaps">Open in Maps</string>
     <string name="houseimg_description">Image of the house where the event is located.</string>
+    <string name="lbl_contact">Contact Details</string>
+    <string name="lbl_mobile">Mobile:</string>
+    <string name="lbl_email">Email:</string>
+    <string name="mobileNo">+44700000293</string>
+    <string name="email">U1234567@unimail.hud.ac.uk</string>
+    <string name="btn_callme">Call Me!</string>
+    <string name="btn_emailme">Email me!</string>
+    <string name="lbl_cantcome">Unable to come? Let me know!</string>
+    <string name="btn_textme">Text Me!</string>
+    <string name="lbl_psst">psst.. I will be more likely to see a text message over an email!</string>
+    <string name="txtEnterName">Enter your Name</string>
+
 </resources>
