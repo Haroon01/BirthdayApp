@@ -46,6 +46,8 @@
         <item name="android:textStyle">bold</item>
         <item name="android:textAlignment">center</item>
         <item name="android:color">#CD392E</item>
+        <item name="layout_constraintBottom_toBottomOf">parent</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
     </style>
 
 

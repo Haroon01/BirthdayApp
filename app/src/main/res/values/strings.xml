@@ -20,5 +20,9 @@
     <string name="btn_textme">Text Me!</string>
     <string name="lbl_psst">psst.. I will be more likely to see a text message over an email!</string>
     <string name="txtEnterName">Enter your Name</string>
+    <string name="lbl_donate">Donate</string>
+    <string name="lbl_bdaymoney">Amount in GBP</string>
+    <string name="lbl_donatemsg">Add a message (optional)</string>
+    <string name="btnDonate">Send!</string>
 
 </resources>
