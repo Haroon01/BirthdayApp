@@ -24,5 +24,6 @@
     <string name="lbl_bdaymoney">Amount in GBP</string>
     <string name="lbl_donatemsg">Add a message (optional)</string>
     <string name="btnDonate">Send!</string>
+    <string name="lbl_Schedule">Schedule</string>
 
 </resources>

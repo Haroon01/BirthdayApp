@@ -6,4 +6,27 @@
     android:layout_height="match_parent"
     tools:context=".ScheduleActivity">
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="112dp"
+        android:text="@string/lbl_Schedule"
+        android:textAlignment="center"
+        android:textAppearance="@style/title"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:layout_width="409dp"
+        android:layout_height="568dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="162dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
