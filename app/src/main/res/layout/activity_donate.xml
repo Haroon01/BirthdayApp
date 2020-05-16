@@ -21,6 +21,7 @@
 
     <EditText
         android:id="@+id/txtDonateName"
+        style="@style/editText"
         android:layout_width="0dp"
         android:layout_height="45dp"
         android:layout_marginStart="32dp"
@@ -32,9 +33,11 @@
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+        app:layout_constraintTop_toBottomOf="@+id/textView9"/>
+
 
     <EditText
+        style="@style/editText"
         android:id="@+id/txtdonateAmt"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -50,6 +53,7 @@
         app:layout_constraintTop_toBottomOf="@+id/txtDonateName" />
 
     <EditText
+        style="@style/editText"
         android:id="@+id/txtdonatemsg"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
