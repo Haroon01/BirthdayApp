@@ -15,7 +15,7 @@
         <activity android:name=".ContactActivity"
             android:parentActivityName=".MainActivity"/>
 
-        <activity android:name=".ScheduleActivity"
+        <activity android:name=".FaqActivity"
             android:parentActivityName=".MainActivity"/>
 
         <activity android:name=".SplashScreenActivity">

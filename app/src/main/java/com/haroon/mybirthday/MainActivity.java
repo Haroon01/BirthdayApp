@@ -1,6 +1,5 @@
 package com.haroon.mybirthday;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -68,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     public void openSchedule(){
-        Intent intent = new Intent(this, ScheduleActivity.class);
+        Intent intent = new Intent(this, FaqActivity.class);
         startActivity(intent);
     }
     public void openContact(){
