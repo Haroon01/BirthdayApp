@@ -16,8 +16,11 @@ public class MainActivity extends AppCompatActivity {
 
     //TODO: set all titles to @styles/title theme
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
         super.onCreate(savedInstanceState);
         getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_main);
