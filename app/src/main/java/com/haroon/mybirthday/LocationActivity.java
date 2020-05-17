@@ -24,7 +24,7 @@ public class LocationActivity extends AppCompatActivity {
         setTheme(R.style.AppTheme_ActionBar);
         setContentView(R.layout.activity_location);
         Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
-        setTitle(R.string.btn_location);
+        setTitle("");
 
         Button btnOpenMaps = findViewById(R.id.btnOpenMaps);
 
@@ -33,9 +33,9 @@ public class LocationActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(Intent.ACTION_VIEW);
 
-                String label = "label";
+                String label = "TheParty";//INFO: This feature currently does not work on GoogleMaps
 
-                intent.setData(Uri.parse("geo:53.667137,-1.482669?q=53.667137,-1.482669("+label+")"));
+                intent.setData(Uri.parse("geo:0,0?q=53.64104111,-1.77850038("+label+")"));
 
                 startActivity(intent);
             }

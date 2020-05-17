@@ -25,5 +25,11 @@
     <string name="lbl_donatemsg">Add a message (optional)</string>
     <string name="btnDonate">Send!</string>
     <string name="lbl_faq">FAQ</string>
+    <string name="faq_q1">When shall I arrive by?</string>
+    <string name="faq_q2">What shall I wear?</string>
+    <string name="faq_q3">What about the food?</string>
+    <string name="faq_a1">You want to arrive at around 6 to 7pm</string>
+    <string name="faq_a2">Anything smart casual will be fine</string>
+    <string name="faq_a3">There will be a food table with a wide range of different foods and snacks.</string>
 
 </resources>

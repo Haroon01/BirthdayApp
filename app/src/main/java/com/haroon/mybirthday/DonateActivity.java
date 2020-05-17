@@ -25,6 +25,8 @@ public class DonateActivity extends AppCompatActivity {
         setContentView(R.layout.activity_donate);
         Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
 
+        setTitle("");
+
         Button btnDonate = findViewById(R.id.btnDonate);
         final TextView txtName = findViewById(R.id.txtDonateName);
         final TextView txtAmnt = findViewById(R.id.txtdonateAmt);

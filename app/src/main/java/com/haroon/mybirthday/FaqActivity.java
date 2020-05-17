@@ -14,6 +14,6 @@ public class FaqActivity extends AppCompatActivity {
         setTheme(R.style.AppTheme_ActionBar);
         setContentView(R.layout.activity_faq);
         Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
-        setTitle(R.string.btn_schedule);
+        setTitle("");
     }
 }
